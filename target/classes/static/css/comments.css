@@ -1,0 +1,14 @@
+#comment-form{
+	border: 1px solid lightgray;
+	border-bottom: 1px solid lightgray;
+	padding: 5px 20px;
+}
+
+.comments{
+	border: 1px solid lightgray;
+	padding: 5px 20px;
+}
+
+.comment{
+	padding: 10px;
+}
